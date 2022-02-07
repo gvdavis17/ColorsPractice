@@ -1,0 +1,39 @@
+h1 {
+    color: indigo;
+    background-color: red;
+}
+h2 {
+    color: rgb(255, 0,0);
+    background-color: orange;
+
+}
+h3 {
+    color: #000;
+    background-color: yellow;
+}
+h4 {
+    color: #00ff00;
+    background-color: green;
+}
+h5 {
+    color: #000931ff;
+    background-color: blue;
+
+}
+h6 {
+    color: rgba(0, 127, 255, 1);
+    background-color: indigo;
+}
+p {
+    color: rgba(200, 255, 100, 0.4);
+    background-color: violet;
+}
+#hot-pink{
+    color: hotpink;
+}
+#peachpuff {
+    background-color: peachpuff;
+}
+.border {
+    border: solid 5px green;
+}
